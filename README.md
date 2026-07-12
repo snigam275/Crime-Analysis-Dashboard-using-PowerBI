@@ -1,4 +1,4 @@
-# Crime Pattern Analysis and Prediction
+# Crime Analysis and Prediction System
 
 Interactive Power BI dashboard combined with a Python-based predictive analytics
 pipeline to analyze crime trends, weapon involvement, victim demographics, and
